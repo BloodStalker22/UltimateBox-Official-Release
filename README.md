@@ -63,4 +63,4 @@ This plugin supports (paper/taco)spigot 1.8-1.16
 If you found any bugs/errors or if you have an animation you would want to suggest/feature or if you want to ask any question just contact me at discord:
 
 PM2#5811
-
+Thx

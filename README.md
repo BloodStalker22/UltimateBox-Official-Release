@@ -4,15 +4,11 @@
  
 ►PREVIEW 
  
-<img src="https://user-images.githubusercontent.com/70879611/92356242-c2f05800-f120-11ea-82ff-8ed3e0e151a0.png" width="90%"></img>
+<img src="https://proxy.spigotmc.org/a4ef8fca8fa29ccf0955b272eaaca6dc17bdf779?url=https%3A%2F%2Fi.imgur.com%2F3dVILOe.gif" width="90%"></img>
 
-<img src="https://user-images.githubusercontent.com/70879611/92356255-c84da280-f120-11ea-94c1-f6de3e7c7266.png" width="90%"></img>
+<img src="https://proxy.spigotmc.org/60ee8c2756485d0af049e238c575ed4550cd1661?url=https%3A%2F%2Fi.imgur.com%2FiQQpKCN.gif" width="90%"></img>
 
-<img src="https://user-images.githubusercontent.com/70879611/92356280-d00d4700-f120-11ea-9c45-baf9570a502d.png" width="90%"></img>
-
-<img src="https://user-images.githubusercontent.com/70879611/92356314-d4396480-f120-11ea-9926-4df9890a34d1.pngg" width="90%"></img>
-
- 
+<img src="https://proxy.spigotmc.org/fef19dee0401bc2bf02555246393c19d76453323?url=https%3A%2F%2Fi.imgur.com%2FC5P7wXJ.gif" width="90%"></img>
  
 ►Features
 Interactable crate animations.

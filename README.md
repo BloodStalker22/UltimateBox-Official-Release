@@ -4,6 +4,16 @@
  
 ►PREVIEW 
  
+<img src="https://user-images.githubusercontent.com/70879611/92356242-c2f05800-f120-11ea-82ff-8ed3e0e151a0.png" width="90%"></img>
+
+<img src="https://user-images.githubusercontent.com/70879611/92356255-c84da280-f120-11ea-94c1-f6de3e7c7266.png" width="90%"></img>
+
+<img src="https://user-images.githubusercontent.com/70879611/92356280-d00d4700-f120-11ea-9c45-baf9570a502d.png" width="90%"></img>
+
+<img src="https://user-images.githubusercontent.com/70879611/92356314-d4396480-f120-11ea-9926-4df9890a34d1.pngg" width="90%"></img>
+
+ 
+ 
 ►Features
 Interactable crate animations.
 Quick beautiful crate useful for vote crates
